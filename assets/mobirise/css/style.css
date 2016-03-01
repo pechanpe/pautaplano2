@@ -532,6 +532,9 @@ html {
 }
 .mbr-section__container--center {
   text-align: center;
+  border: 10px dotted black;
+  padding: 40px;
+  box-shadow: 5px 5px 5px #000000;
 }
 .mbr-section__container--std-padding {
   padding: 93px 0;
